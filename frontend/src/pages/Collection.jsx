@@ -1,6 +1,8 @@
-import React from 'react'
+import React, { useContext } from 'react'
 
 const Collection = () => {
+  // const { products } = useContext(shop)
+
   return (
     <div>
       
